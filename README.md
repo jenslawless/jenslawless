@@ -2,8 +2,8 @@
 
 I am a recent Software Development bootcamp graduate with a background in International Business and Marketing, and over 4 years of experience in the tourism/hospitality/study abroad industry. 
 
-🔭 I’m currently working on my project Site Scout, a website that helps business owners compare potential addresses for their next brick-and-mortar location.
-🌱 I’m currently learning all things geospatial data! I'm interested in using geospatial data to help small businesses. Also starting to learn C#.
+###🔭 I’m currently working on my project Site Scout, a website that helps business owners compare potential addresses for their next brick-and-mortar location.
+###🌱 I’m currently learning all things geospatial data! I'm interested in using geospatial data to help small businesses. Also starting to learn C#.
 👯 I’m looking to collaborate on any new project! 
 🤔 I’m looking for help with networking and finding new job postings for entry level software developers. 
 
